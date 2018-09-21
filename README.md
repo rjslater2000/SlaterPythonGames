@@ -3,7 +3,7 @@
 [![Downloads](http://pepy.tech/badge/SlaterPythonGames)](http://pepy.tech/project/SlaterPythonGames)  ![PyPi](https://badge.fury.io/py/SlaterPythonGames.png)<br>
 
 Python games by Ryan J. Slater [GitHub](https://github.com/rjslater2000/SlaterPythonGames)
-[PyPi](https://pypi.org/project/SlaterPythonGames/)<br>
+[PyPi](https://pypi.org/project/SlaterPythonGames/) [![Downloads](http://pepy.tech/badge/SlaterPythonGames)](http://pepy.tech/project/SlaterPythonGames)<br>
 This is an updated replacement for [rygames](https://pypi.org/project/RyGames/) [![Downloads](http://pepy.tech/badge/rygames)](http://pepy.tech/project/rygames)<br>
 
 ## Installation
